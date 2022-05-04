@@ -1,0 +1,2 @@
+i was wondering how to add text into hello world from the command line
+as it turns out vs studio text editor had it in a nice GUI uncharacteristic of linux
